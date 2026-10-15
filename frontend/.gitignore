@@ -11,6 +11,11 @@ node_modules
 dist
 dist-ssr
 *.local
+.next
+.next-validation
+out
+next-env.d.ts
+*.tsbuildinfo
 
 # Editor directories and files
 .vscode/*
